@@ -24,6 +24,8 @@ All detailed answers, explanations, and implementation walkthroughs for the asse
 
 ## Setup and Installation
 
+0. Please download the weights (https://drive.google.com/file/d/15o3dOq6ON0ojkO-7EQDim6561eoyBCC9/view?usp=sharing) and place it in your current active directory.
+
 1. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
